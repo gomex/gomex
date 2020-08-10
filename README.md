@@ -1,14 +1,3 @@
-<p align="center">
-  <br>
-  <br>
-  <br>
-  <samp>Hello World. I'm <a href="https://danrodrguez.dev">Daniel</a>.<br> I'm a DevOps Engineer from Salvador-Bahia-Brazil.<br><br>
-  <br>
-  <br>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" /><br><br>
-
-  
-</p>
 <h2>I'm Rafael Gomes (a.k.a. Gomex).</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -24,6 +13,7 @@
 - 🔧 &nbsp; Git | Markdown
 
 <h3>📚 Books</h3>
+
 - 📘 &nbsp; [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - 📘 &nbsp; [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs)
 
